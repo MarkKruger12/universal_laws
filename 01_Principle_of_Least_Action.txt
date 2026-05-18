@@ -1,0 +1,5 @@
+Document 01: PRINCIPLE OF LEAST ACTION
+
+S = Integral (T - V) dt
+
+Universal optimization law: Systems automatically select trajectories that minimize total action, eliminating systemic friction.
